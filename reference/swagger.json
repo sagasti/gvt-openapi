@@ -1,17 +1,5 @@
 {
   "swagger": "2.0",
-  "info": {
-    "description": "GvpAPI",
-    "version": "Beta",
-    "title": "GvpFintech API",
-    "contact": {
-      "email": "fvarela@systemweb.com.ar"
-    },
-    "license": {
-      "name": "SystemWEB©",
-      "url": "http://www.systemweb.com.ar"
-    }
-  },
   "tags": [
     {
       "name": "Users & Applications"
