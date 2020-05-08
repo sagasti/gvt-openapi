@@ -4,10 +4,14 @@
     "description": "GvpAPI",
     "version": "Beta",
     "title": "GvpFintech API",
- 
+    "contact": {
+      "email": "fvarela@systemweb.com.ar"
+    },
+    "license": {
+      "name": "SystemWEB©",
+      "url": "http://www.systemweb.com.ar"
+    }
   },
-  "host": "virtserver.swaggerhub.com",
-  "basePath": "/Systemweb/GvpApi2/1.0.0",
   "tags": [
     {
       "name": "Users & Applications"
@@ -65,9 +69,7 @@
       "description": "Loyalty program api services"
     }
   ],
-  "schemes": [
-    "https"
-  ],
+  "schemes": [],
   "consumes": [
     "application/json"
   ],
